@@ -1,10 +1,10 @@
 
 # Marketing Campaign Analytics  
 
-## 📌 Project Overview  
+ Project Overview  
 This project analyzes **marketing campaign data of 2,240 customers from Maven Marketing**, covering customer profiles, product preferences, campaign performance, and sales channels. The goal was to build a complete **Business Intelligence solution** that transforms raw marketing data into actionable insights.  
 
-## 🛠️ Workflow & Steps  
+##  Workflow & Steps  
 
 ### 1. Data Cleaning & Preparation  
 - Used **Power Query** to clean and transform raw customer and campaign data.  
@@ -29,7 +29,7 @@ This project analyzes **marketing campaign data of 2,240 customers from Maven Ma
   - Campaign effectiveness (responses vs non-responses).  
   - Channel performance (Store, Web, Catalog).  
 
-## 🎯 Business Value  
+##  Business Value  
 - Identified low campaign acceptance rates and opportunities for better targeting.  
 - Highlighted product categories driving revenue.  
 - Showed dominant sales channels and potential growth areas.  
@@ -46,5 +46,3 @@ README.md    → Project description & workflow
 
 ---
 
-✨ كده الـ README يبان احترافي جدًا، يوضح إنك عملت **Data Cleaning → ETL → Data Warehouse → Reporting**.  
-تحبي أضيفلك كمان **صور من الداشبورد** في README بحيث تبين النتائج بشكل بصري؟
